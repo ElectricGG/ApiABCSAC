@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Api\\ABCSAC.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Api\\ABCSAC.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Api\\ABCSAC.Api.csproj",
+        "projectName": "ABCSAC.Api",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Api\\ABCSAC.Api.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Application\\ABCSAC.Application.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Application\\ABCSAC.Application.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Infrastructure\\ABCSAC.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Infrastructure\\ABCSAC.Infrastructure.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Utilities\\ABCSAC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Utilities\\ABCSAC.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Application\\ABCSAC.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Application\\ABCSAC.Application.csproj",
+        "projectName": "ABCSAC.Application",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Application\\ABCSAC.Application.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Domain\\ABCSAC.Domain.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Domain\\ABCSAC.Domain.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Infrastructure\\ABCSAC.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Infrastructure\\ABCSAC.Infrastructure.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Utilities\\ABCSAC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Utilities\\ABCSAC.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "WatchDog.NET": {
+              "target": "Package",
+              "version": "[1.4.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Domain\\ABCSAC.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Domain\\ABCSAC.Domain.csproj",
+        "projectName": "ABCSAC.Domain",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Domain\\ABCSAC.Domain.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Infrastructure\\ABCSAC.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Infrastructure\\ABCSAC.Infrastructure.csproj",
+        "projectName": "ABCSAC.Infrastructure",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Infrastructure\\ABCSAC.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Domain\\ABCSAC.Domain.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Domain\\ABCSAC.Domain.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Utilities\\ABCSAC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Utilities\\ABCSAC.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.3.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Utilities\\ABCSAC.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Utilities\\ABCSAC.Utilities.csproj",
+        "projectName": "ABCSAC.Utilities",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Utilities\\ABCSAC.Utilities.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\PruebaTecnicaPQ\\Backend\\ABCSAC\\ABCSAC.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

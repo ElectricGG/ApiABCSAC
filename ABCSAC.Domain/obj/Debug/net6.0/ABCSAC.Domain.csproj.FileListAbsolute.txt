@@ -1,0 +1,14 @@
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\bin\Debug\net6.0\ABCSAC.Domain.deps.json
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\bin\Debug\net6.0\ABCSAC.Domain.runtimeconfig.json
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\bin\Debug\net6.0\ABCSAC.Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\bin\Debug\net6.0\ABCSAC.Domain.pdb
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\obj\Debug\net6.0\ABCSAC.Domain.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\obj\Debug\net6.0\ABCSAC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\obj\Debug\net6.0\ABCSAC.Domain.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\obj\Debug\net6.0\ABCSAC.Domain.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\obj\Debug\net6.0\ABCSAC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\obj\Debug\net6.0\ABCSAC.Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\obj\Debug\net6.0\refint\ABCSAC.Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\obj\Debug\net6.0\ABCSAC.Domain.pdb
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\obj\Debug\net6.0\ABCSAC.Domain.genruntimeconfig.cache
+C:\Users\jesus\OneDrive\Escritorio\PruebaTecnicaPQ\Backend\ABCSAC\ABCSAC.Domain\obj\Debug\net6.0\ref\ABCSAC.Domain.dll
